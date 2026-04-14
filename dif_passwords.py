@@ -18,6 +18,7 @@ exclude_same_symbols = input("Исключать ли неоднозначные
 
 
 
+
 if include_num == "y".lower():
     chars += digits
 if include_upper_let == "y".lower():
