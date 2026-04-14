@@ -16,7 +16,7 @@ include_lower_let = input("Вкл строчные буквы? (y/n)")
 include_symbols = input("Вкл символы? (y/n)")
 exclude_same_symbols = input("Исключать ли неоднозначные символы? (y/n)")
 
-
+#привет
 
 
 if include_num == "y".lower():
